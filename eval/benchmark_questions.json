@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the population of the country whose capital contains the Eiffel Tower?",
+    "gold_answer": "68 million",
+    "gold_fact": "France's population is about 68 million."
+  },
+  {
+    "question": "Which continent is the country home to the Eiffel Tower located on?",
+    "gold_answer": "Europe",
+    "gold_fact": "France is located in Europe."
+  }
+]
